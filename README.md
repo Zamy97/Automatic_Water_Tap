@@ -18,5 +18,5 @@ Equipment/Materials links:
 1. [Visual representation of what I am trying to create](http://www.autotaps.com/how-automatic-tap-work.html)
 2. [Goal is to be able to create this](https://www.youtube.com/watch?v=4YoppXGoFTM&t=71s)
 
-##. Questions/Things I am concerned about:
+## Questions/Things I am concerned about:
 1. 
