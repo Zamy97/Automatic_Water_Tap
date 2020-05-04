@@ -18,6 +18,11 @@ Equipment/Materials links:
 1. [Visual representation of what I am trying to create](http://www.autotaps.com/how-automatic-tap-work.html)
 2. [Goal is to be able to create this](https://www.youtube.com/watch?v=4YoppXGoFTM&t=71s)
 
+## Equioment I need: 
+*  Solenoid Water Valve (12V)
+* Arduino Board/Rasberry Pi
+* Ultraonic Sensor Modulo
+* 
 ## Questions/Things I am concerned about:
 1. Firstly I am concerned about how am I going to connect the wires with different electric pieces?
 2. What is relay? And Why do I need it? How does it help me with what I am trying to accomplish? 
