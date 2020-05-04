@@ -18,7 +18,7 @@ Equipment/Materials links:
 1. [Visual representation of what I am trying to create](http://www.autotaps.com/how-automatic-tap-work.html)
 2. [Goal is to be able to create this](https://www.youtube.com/watch?v=4YoppXGoFTM&t=71s)
 
-## Equioment I need: 
+## Equipment I need: 
   *  Solenoid Water Valve (12V)
   * Arduino Board/Rasberry Pi
   * Ultraonic Sensor Modulo
