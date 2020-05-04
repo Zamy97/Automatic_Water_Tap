@@ -19,4 +19,11 @@ Equipment/Materials links:
 2. [Goal is to be able to create this](https://www.youtube.com/watch?v=4YoppXGoFTM&t=71s)
 
 ## Questions/Things I am concerned about:
-1. 
+1. Firstly I am concerned about how am I going to connect the wires with different electric pieces?
+2. What is relay? And Why do I need it? How does it help me with what I am trying to accomplish? 
+3. Instead of using Arduino, would I be able to achieve with a Rasberry pi? 
+4. Will I be able to write my script in Python? 
+5. How will I solder all the wires? How will I make sure that I connected the jumper wires with the right input?
+6. How am I going to be able to get water from (hot + cold) through the Solenoid Valve?
+7. I am wondering how will the code in Arduino will run? What will trigger the file where my code might live?
+8. What are the IN & OUT size for my Solenoid Valve? Does it need to be 1/2? 1/4? 3/4? 3/8? [Think about how will you be getting the watet in the Valve]
